@@ -1,0 +1,80 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Environment variables and virtual environments
+.env
+ocr_env/
+venv/
+*.env
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Python and Conda environment files
+*.lock
+*.log
+
+# Model and processor weights (if downloaded locally)
+*.bin
+*.pt
+*.onnx
+
+# Images and datasets
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tiff
+*.svg
+*.webp
+
+# IDE files
+.vscode/
+.idea/
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Logs and temp files
+*.log
+*.tmp
+*.temp
+*.cache
+
+# TensorBoard
+logs/
+
+# PyTest cache
+.pytest_cache/
+
+# Generated files
+*.html
+*.csv
+*.pdf
+*.txt
+
+# Ignore large output files from model runs
+outputs/
+results/
+
+# Ignore any other generated files
+generated_files/
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+
+*C:\Users\Atharva Raut\Desktop\IITR Parimal Task\OCR_PROJECT\backend\ocr_env
+*C:\Users\Atharva Raut\Desktop\IITR Parimal Task\OCR_PROJECT\frontend\ocr_env
